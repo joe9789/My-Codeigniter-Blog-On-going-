@@ -1,6 +1,6 @@
-# Project Title
+# Codeigniter Blog
 
-One Paragraph of project description goes here
+A simple codeigniter blog
 
 ## All About My Porject Goes Here
 
@@ -13,6 +13,12 @@ It is a basic PHP web app you should need
 ## Versioning
 
 This is an on-going project version is not confiremd yet
+
+## Completed Working
+
+*Login System
+*Newletter Sign-up
+*Crud
 
 ## Author(s)
         Only Me
